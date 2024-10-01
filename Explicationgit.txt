@@ -1,0 +1,3 @@
+Dans un premier temps faire une branche personnalisée pour ne pas push le code dans la branche proincipale
+ensuite il faut faire le plus "change state" ensuit petit mot explicatif avant de commit et enfin on push 
+Pour mettre le code sur la branche principale il faut créer une requête à l'aide de la commande
